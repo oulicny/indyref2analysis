@@ -1,6 +1,6 @@
 # Scotland Independence Referendum Analysis 
 
-This is an excerpt of the data analysis portion of my senior thesis (completed April 2020) that examines the motivations behind the Scottish independence referendum and how it shaped the vote on Scotland's constitutional status in 1979, 1997, and 2014. With the prospect of a second Scottish independence referendum in the [news](https://www.bbc.com/news/uk-scotland-scotland-politics-48026430) and after studying abroad in Scotland for the semester, this was a topic that really interested me.
+This is an excerpt of the data analysis portion of my senior thesis (completed April 2020) that examines the motivations behind the Scottish independence referendum and how it shaped the vote on Scotland's constitutional status in 1979, 1997, and 2014. With the prospect of a second Scottish independence referendum in the [news](https://www.bbc.com/news/uk-scotland-scotland-politics-48026430) and after studying abroad in Scotland for the Spring 2019 semester, this was a topic that really interested me.
 
 For my data analysis, I pulled data from the 1997 Scottish Referendum Study (after Scottish citizens voted to create the Scottish Parliament with powers devolved from the Parliament of the United Kingdom, restoring power in the legislative body for the first time since 1707) and Wave 3 of the British Election Study Internet Panel Survey (after the 2014 independence referendum vote). 
 
